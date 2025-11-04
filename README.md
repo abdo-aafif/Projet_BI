@@ -1,0 +1,2 @@
+# Projet_BI
+Conception et mise en œuvre d’un entrepôt de données (modèle en étoile) à  partir d’une base transactionnelle. Réalisation de processus ETL avec Talend et analyse multidimensionnelle (cube OLAP) sous  Excel/SSAS. Les techs : SQL Server, Talend OpenStudio, SSAS,Excel.
